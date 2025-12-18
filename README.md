@@ -4,7 +4,8 @@
 This project analyzes pizza sales data using SQL to extract meaningful business insights such as revenue trends, popular pizzas, and category-wise performance.
 
 ## Dataset
-The dataset contains order details including order date, pizza type, size, quantity, and price.
+This project uses multiple relational CSV files including orders, order details, pizzas, and pizza types for SQL-based analysis.
+
 
 ## Business Questions Answered
 - Total revenue generated
